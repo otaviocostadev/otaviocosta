@@ -1,5 +1,15 @@
 # otaviocosta
 
+Olá!
+
+-Me chamo Otávio Costa, e estou iniciando na programação.
+
+-Estou cursando o ensino médio.
+
+-Estudando para um dia poder trabalhar com programação.
+
+-Estudando: HTML5, CSS3, JavaScript, ReactJS.
+
  <div>
   <a href="https://github.com/otaviocostadev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=otaviocostadev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
