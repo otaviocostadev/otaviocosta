@@ -3,7 +3,9 @@
 Olá!
 
 -Me chamo Otávio Costa, e estou iniciando na programação.
+
 -Estou cursando o ensino médio.
+
 -Estudando para um dia poder trabalhar com programação.
 
 -Estudando: HTML5, CSS3, JavaScript, ReactJS.
