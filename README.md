@@ -5,13 +5,11 @@
   <a href="https://github.com/otaviocostadev">
   <img height="135em" src="https://github-readme-stats.vercel.app/api?username=otaviocostadev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviocostadev&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
-- My name is Otávio Costa, and i'm starting with programming.
+</div> 
  
-- 📫 How to reach me **maykbrito@gmail.com**
+<!-- -My name is Otávio Costa, and i'm starting with programming.
 
-- Studying: HTML5, CSS3, JavaScript.
+-Studying: HTML5, CSS3, JavaScript. -->
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
